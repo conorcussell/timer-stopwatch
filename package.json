@@ -1,6 +1,6 @@
 {
   "name": "timer-stopwatch-two",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description":
     "A fork of timer-stopwatch - a stopwatch and countdown timer for node",
   "author": "Conor Cussell",
