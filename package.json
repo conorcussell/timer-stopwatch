@@ -2,13 +2,12 @@
   "name": "timer-stopwatch-two",
   "version": "0.1.0",
   "description":
-    "A fork of timer-stopwatch stopwatch and countdown timer for node",
+    "A fork of timer-stopwatch - a stopwatch and countdown timer for node",
   "author": "Conor Cussell",
   "repository": "https://github.com/conorcussell/timer-stopwatch",
   "homepage": "https://github.com/conorcussell/timer-stopwatch",
   "keywords": ["timer", "stopwatch", "clock", "countdown"],
   "dependencies": {
-    "lodash": "^2.4.1",
     "mitt": "^1.1.3"
   },
   "devDependencies": {
